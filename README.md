@@ -1,0 +1,2 @@
+# matplotlibFormat
+Favorite plotting format
